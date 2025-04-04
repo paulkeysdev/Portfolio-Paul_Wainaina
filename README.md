@@ -14,6 +14,8 @@ A personal portfolio website showcasing my skills and projects in web developmen
 * **Frontend:** HTML
 * **Styling:**  CSS
 * **Deployment:** Netlify
+* **Use This Link:**
+* https://zippy-monstera-f927ba.netlify.app/ * 
 
 ## Contact
 
